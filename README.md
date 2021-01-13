@@ -1,3 +1,7 @@
+
+
+Note : Training attended on January 12 , 2021 by Microsoft Partner - Data Semantics 
+
 # Azure Synapse Analytics Lab
 
 ## Wide World Importers
